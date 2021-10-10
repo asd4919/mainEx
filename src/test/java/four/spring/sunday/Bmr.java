@@ -5,5 +5,6 @@ public class Bmr {
 	String pdn;
 	String kjh;
 	String jhj;
+	String fourr;
 
 }
